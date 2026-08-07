@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
 ## Hash Table
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
