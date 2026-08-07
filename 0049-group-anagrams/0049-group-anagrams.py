@@ -14,4 +14,4 @@ class Solution(object):
                 seen[tuple(sig)].append(string)
             else:
                 seen[tuple(sig)]=[string]
-        return seen.values()
+        return list(seen.values())
