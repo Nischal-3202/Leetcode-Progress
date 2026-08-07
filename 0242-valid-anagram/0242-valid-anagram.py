@@ -18,7 +18,4 @@ class Solution(object):
                 if seen[ch] < 0: return False
             else:
                 return False
-        for value in seen.values():
-            if value != 0:
-                return False
         return True
