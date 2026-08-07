@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
 ## Array
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
