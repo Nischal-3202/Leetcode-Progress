@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0238-product-of-array-except-self) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0242-valid-anagram) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Simulation
 |  |
 | ------- |
@@ -78,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0238-product-of-array-except-self) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 <!---LeetCode Topics End-->
