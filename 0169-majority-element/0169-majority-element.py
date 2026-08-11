@@ -5,13 +5,13 @@ class Solution(object):
         :rtype: int
         """
         maj_ele=nums[0]
-        count=1
-        for i in range(1,len(nums)):
+        count=0
+        for i in range(len(nums)):
             if count == 0:
                 maj_ele=nums[i]
             if nums[i]==maj_ele :
                 count+=1
             else:
                 count -=1
-
+            
         return maj_ele
