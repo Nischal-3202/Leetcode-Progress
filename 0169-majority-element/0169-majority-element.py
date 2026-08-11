@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        maj_ele=nums[0]
+        maj_ele=None
         count=0
         for i in range(len(nums)):
             if count == 0:
