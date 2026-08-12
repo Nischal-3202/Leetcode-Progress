@@ -7,7 +7,6 @@ class Solution(object):
         """
         if len(s) != len(goal):
             return False
-        for i in range(len(s)):
-            new_string = s[-i:] + s[:-i]
-            if new_string==goal: return True
+        new_string=s+s
+        if new_string.count(goal) != 0 : return True
         return False
