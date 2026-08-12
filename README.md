@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0238-product-of-array-except-self) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
