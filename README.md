@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
