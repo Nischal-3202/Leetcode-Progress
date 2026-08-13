@@ -4,9 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        ones=0
-        twos=0
-        for num in nums:
-            ones=(ones ^ num) & ~ twos
-            twos=(twos ^ num) & ~ ones
-        return ones
+        ans=0
+        for bit in range(32):
+            count=0
+            for num in nums:
+                if num & (1 << bit):
+                    count +=1
+            if count %3:
+                ans= ans | (1 << bit)
+            if ans >= ( 1 <<31):
+                ans -= (1 << 32)
+        return ans
