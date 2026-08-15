@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0322-coin-change) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0338-counting-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
@@ -215,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
