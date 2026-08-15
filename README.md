@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
