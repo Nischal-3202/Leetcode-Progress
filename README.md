@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0338-counting-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0338-counting-bits) |
 ## Counting
 |  |
 | ------- |
