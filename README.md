@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0518-coin-change-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
