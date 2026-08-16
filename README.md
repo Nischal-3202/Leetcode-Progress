@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0085-maximal-rectangle) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0169-majority-element) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
