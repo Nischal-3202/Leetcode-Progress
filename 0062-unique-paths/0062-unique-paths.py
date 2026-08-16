@@ -5,13 +5,9 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        """Combinations methods"""
-        def fact(n):
-            if n==0:
-                return 1
-            return n*fact(n-1)
-        down=m-1
-        across=n-1
-        return (fact(down+across)/(fact(down)*fact(across)))
-        
-        
+        """DP methods"""
+        dp=[1]*n
+        for i in range(1,m):
+            for j in range(1,n):
+                dp[j]+=dp[j-1]
+        return dp[-1]        
