@@ -5,14 +5,13 @@ class Solution(object):
         :type n: int
         :rtype: float
         """
-        if n==0:
-            return 1
         if n < 0:
-            x=1/x
-            n=-n
-            return self.myPow(x,n)
-        half=self.myPow(x,n//2)
-        if n%2 ==0:
-            return half*half
-        else:
-            return half*half*x
+            x = 1 / x
+            n = -n
+        ans = 1
+        while n > 0:
+            if n % 2 == 1:
+                ans *= x
+            x *= x
+            n //= 2
+        return ans
