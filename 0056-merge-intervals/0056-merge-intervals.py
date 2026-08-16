@@ -5,13 +5,13 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         intervals.sort()
-        ans=[]
-        curr=intervals[0]
-        for i in range(1,len(intervals)):
-            if  intervals[i][0] <= curr[1]:
-                curr[1]=max(curr[1],intervals[i][1])
+        merged = [intervals[0]]
+
+        for current in intervals[1:]:
+            last = merged[-1]
+
+            if current[0] <= last[1]:
+                last[1] = max(last[1], current[1])
             else:
-                ans.append(curr)
-                curr=intervals[i]
-        ans.append(curr)
-        return ans
+                merged.append(current)
+        return merged
