@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0062-unique-paths) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
