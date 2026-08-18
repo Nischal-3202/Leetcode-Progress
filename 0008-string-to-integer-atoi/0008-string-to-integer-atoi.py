@@ -6,22 +6,26 @@ class Solution(object):
         """
         i = 0
         n = len(s)
-        
+
         while i < n and s[i] == ' ':
             i += 1
-        
+
         sign = 1
         if i < n and (s[i] == '-' or s[i] == '+'):
             sign = -1 if s[i] == '-' else 1
             i += 1
-        
-        result = 0
+
+        total = 0
+
         while i < n and s[i].isdigit():
-            result = result * 10 + int(s[i])
-            if result * sign > 2**31 - 1:
-                return 2**31 - 1
-            if result * sign < -2**31:
-                return -2**31
+            total = total * 10 + (ord(s[i]) - ord('0'))
+
+            if total * sign > 2147483647:
+                return 2147483647
+
+            if total * sign < -2147483648:
+                return -2147483648
+
             i += 1
-        
-        return result * sign
+
+        return total * sign
