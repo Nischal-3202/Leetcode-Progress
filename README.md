@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0518-coin-change-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0704-binary-search](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ordered Set
 |  |
