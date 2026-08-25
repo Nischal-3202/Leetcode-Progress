@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0217-contains-duplicate) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
