@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2965-find-missing-and-repeated-values) |
