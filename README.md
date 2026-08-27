@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0118-pascals-triangle) |
@@ -212,11 +213,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0085-maximal-rectangle) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0085-maximal-rectangle) |
 ## Quicksort
 |  |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0032-longest-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
