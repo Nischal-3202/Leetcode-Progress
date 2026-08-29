@@ -11,11 +11,11 @@ class Solution(object):
             if remaining==0:
                 result.append(path[:])
                 return
-            if remaining < 0:
-                return
             for i in range(index,len(candidates)):
                 if i>index and candidates[i]==candidates[i-1]:
                     continue
+                if candidates[i]>remaining:
+                    break
                 path.append(candidates[i])
                 backtrack(i+1,remaining-candidates[i],path)
                 path.pop()
