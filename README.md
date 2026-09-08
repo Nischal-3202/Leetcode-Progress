@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2965-find-missing-and-repeated-values) |
+| [3870-count-commas-in-range](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
