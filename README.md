@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0075-sort-colors) |
