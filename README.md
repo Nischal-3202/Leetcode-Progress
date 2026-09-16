@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0290-word-pattern) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
 ## Sorting
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0190-reverse-bits) |
