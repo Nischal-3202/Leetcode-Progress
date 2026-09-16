@@ -5,24 +5,7 @@ class Solution(object):
         :type b: str
         :rtype: str
         """
-        i=len(a)-1
-        j=len(b)-1
-        carry=0
-        result=[]
-        while i>=0 or j>=0 or carry:
-            if i>=0:
-                x=int(a[i])
-            else:
-                x=0
-            if j>=0:
-                y=int(b[j])
-            else:
-                y=0
-            total=x+y+carry
-            result.append(str(total%2))
-            carry=total//2
-            i-=1
-            j-=1
-        return ''.join(result[::-1])
-
-        
+        integer_val1 = int(a, 2)
+        integer_val2 = int(b, 2)
+        new_val = integer_val1+integer_val2
+        return bin(new_val)[2:]
