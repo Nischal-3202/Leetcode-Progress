@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0073-set-matrix-zeroes) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0074-search-a-2d-matrix) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
