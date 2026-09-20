@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
