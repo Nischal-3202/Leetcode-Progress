@@ -10,18 +10,14 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        count=0
-        temp=head
-        while temp!=None:
-            temp=temp.next
-            count+=1
-        count-=n
-        if count == 0:
+        temp1 = head
+        temp2 = head
+        for i in range(n):
+            temp2 = temp2.next
+        if temp2 == None:
             return head.next
-        temp=head
-        k=0
-        while k<count-1:
-            k+=1
-            temp=temp.next
-        temp.next=temp.next.next
+        while temp2.next != None:
+            temp1 = temp1.next
+            temp2 = temp2.next
+        temp1.next = temp1.next.next
         return head
