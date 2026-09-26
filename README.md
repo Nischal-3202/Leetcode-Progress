@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 ## Breadth-First Search
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
