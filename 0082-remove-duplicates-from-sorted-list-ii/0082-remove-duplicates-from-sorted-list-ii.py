@@ -12,14 +12,12 @@ class Solution(object):
         dummy=ListNode(None)
         dummy.next=head
         prev=dummy
-        curr=head
-        while curr and curr.next:
-            if curr.val==curr.next.val:
-                while curr.next and curr.val==curr.next.val :
-                    curr=curr.next
-                prev.next=curr.next
-                curr=curr.next
+        while head:
+            if head.next and head.val==head.next.val:
+                while head.next and head.val==head.next.val:
+                    head=head.next
+                prev.next=head.next
             else:
-                prev=curr
-                curr=curr.next
+                prev=prev.next
+            head=head.next
         return dummy.next
