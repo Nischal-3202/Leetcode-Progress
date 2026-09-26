@@ -10,18 +10,11 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
-        slow=head
-        fast=head
-        while fast and fast.next:
-            slow=slow.next
-            fast=fast.next.next
-            if slow==fast:
-                break
-        if fast==None or fast.next==None:
-            return None
-        fast=head
-        while True:
-            if fast==slow:
-                return fast
-            slow=slow.next
-            fast=fast.next
+        seen=set()
+        curr=head
+        while curr:
+            if curr in seen:
+                return curr
+            seen.add(curr)
+            curr=curr.next
+        return None
