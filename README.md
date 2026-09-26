@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
