@@ -10,15 +10,16 @@ class Solution(object):
         :type head1, head1: ListNode
         :rtype: ListNode
         """
-        seen=set()
-        curr=headA
-        while curr:
-            seen.add(curr)
-            curr=curr.next
-        curr=headB
-        while curr:
-            if curr in seen:
-                return curr
-            curr=curr.next
-        return None
+        curr1=headA
+        curr2=headB
+        while curr1!=curr2:
+            if not(curr1):
+                curr1=headB
+            else:
+                curr1=curr1.next
+            if not(curr2):
+                curr2=headA
+            else:
+                curr2=curr2.next
+        return curr1
         
