@@ -9,19 +9,31 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: None Do not return anything, modify head in-place instead.
         """
-        curr=head
-        dummy=ListNode(0,head)
-        mark=dummy
-        nodes=[]
+        slow=head
+        fast=head
+        prev=None
+        temp1,temp2=ListNode(0),ListNode(0)
+        while fast and fast.next:
+            prev=slow
+            fast=fast.next.next
+            slow=slow.next
+        if fast != None:
+            prev=slow
+            slow=slow.next
+        prev.next=None
+        prev=None
+        curr=slow
         while curr:
-            nodes.append(curr)
-            curr=curr.next
-        length=len(nodes)
-        for i in range(length//2):
-            dummy.next=nodes[i]
-            dummy.next.next=nodes[length-1-i]
-            dummy=dummy.next.next
-        if length%2 == 1:
-            dummy.next=nodes[length//2]
-            dummy=dummy.next
-        dummy.next=None
+            nextnode=curr.next
+            curr.next=prev
+            prev=curr
+            curr=nextnode
+        first=head
+        second=prev
+        while second:
+            temp1=first.next
+            temp2=second.next
+            first.next=second
+            second.next=temp1
+            first=temp1
+            second=temp2
