@@ -9,18 +9,16 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        dummy=ListNode(0)
-        dummyhead=dummy
-        curr=head.next
         sums=0
-        zero_seen=False
+        curr=head.next
+        zeronode=head
         while curr:
-            if curr.val != 0:
-                sums += curr.val
+            if curr.val:
+                sums+=curr.val
             else:
-                newnode=ListNode(sums)
-                dummyhead.next=newnode
-                dummyhead=dummyhead.next
+                zeronode.next=curr
+                curr.val=sums
+                zeronode=curr
                 sums=0
             curr=curr.next
-        return dummy.next
+        return head.next
