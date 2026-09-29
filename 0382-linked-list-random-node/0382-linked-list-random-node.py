@@ -11,21 +11,17 @@ class Solution(object):
         :type head: Optional[ListNode]
         """
         self.head=head
-
+        self.values=[]
+        curr=head
+        while curr:
+            self.values.append(curr.val)
+            curr=curr.next
+        
     def getRandom(self):
         """
         :rtype: int
         """
-        answer=self.head
-        curr=answer.next
-        position=2
-        while curr:
-            rad=random.randint(1,position)
-            if rad==1:
-                answer=curr
-            curr=curr.next
-            position += 1
-        return answer.val
+        return random.choice(self.values)
 # Your Solution object will be instantiated and called as such:
 # obj = Solution(head)
 # param_1 = obj.getRandom()
