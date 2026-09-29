@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
 | [0382-linked-list-random-node](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0445-add-two-numbers-ii) |
 | [0836-rectangle-overlap](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0836-rectangle-overlap) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2965-find-missing-and-repeated-values) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
