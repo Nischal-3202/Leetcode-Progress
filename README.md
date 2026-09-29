@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0231-power-of-two) |
+| [0382-linked-list-random-node](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0382-linked-list-random-node) |
 | [0836-rectangle-overlap](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0836-rectangle-overlap) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2965-find-missing-and-repeated-values) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
@@ -495,4 +497,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0023-merge-k-sorted-lists) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
