@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0445-add-two-numbers-ii) |
@@ -523,4 +524,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0707-design-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
