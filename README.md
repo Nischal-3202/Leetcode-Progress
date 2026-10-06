@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0055-jump-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
