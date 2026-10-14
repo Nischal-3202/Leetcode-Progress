@@ -1,16 +1,15 @@
-class Solution(object):
+class Solution:
     def maxSumOfSquares(self, num, sum):
-        """
-        :type num: int
-        :type sum: int
-        :rtype: str
-        """
-        result=""
-        if sum==0 or sum>9*num:
+        if sum > 9 * num:
             return ""
-        while num>0:
-            digit=min(9,sum)
-            result += str(digit)
-            sum -= digit
-            num -=1
-        return result
+
+        full_nines = sum // 9
+        remainder = sum % 9
+
+        if full_nines == num:
+            return "9" * num
+
+        if remainder:
+            return "9" * full_nines + str(remainder) + "0" * (num - full_nines - 1)
+
+        return "9" * full_nines + "0" * (num - full_nines)
