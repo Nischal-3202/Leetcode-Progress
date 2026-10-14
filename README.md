@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0707-design-linked-list) |
 ## Tree
 |  |
