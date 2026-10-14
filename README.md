@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0322-coin-change) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -267,10 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0239-sliding-window-maximum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Manacher
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0239-sliding-window-maximum) |
 ## Newton's Method
 |  |
 | ------- |
@@ -528,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
