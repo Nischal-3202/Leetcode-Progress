@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1019-next-greater-node-in-linked-list) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0085-maximal-rectangle) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0994-rotting-oranges) |
 ## Knapsack Problem
 |  |
 | ------- |
