@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
@@ -578,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0100-same-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
