@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3483-unique-3-digit-even-numbers) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1019-next-greater-node-in-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
