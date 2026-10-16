@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0290-word-pattern) |
 | [0454-4sum-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1019-next-greater-node-in-linked-list) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0933-number-of-recent-calls) |
@@ -604,4 +607,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
