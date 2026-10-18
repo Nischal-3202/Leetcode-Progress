@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0994-rotting-oranges) |
 ## Knapsack Problem
@@ -588,16 +589,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0101-symmetric-tree) |
 ## Data Stream
 |  |
 | ------- |
