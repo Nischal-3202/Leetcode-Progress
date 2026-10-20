@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -615,4 +617,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0460-lfu-cache) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
