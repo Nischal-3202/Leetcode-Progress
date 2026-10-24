@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0445-add-two-numbers-ii) |
 | [0836-rectangle-overlap](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0836-rectangle-overlap) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
+| [2409-count-days-spent-together](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
+| [2409-count-days-spent-together](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
