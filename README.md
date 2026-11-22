@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3863-minimum-operations-to-sort-a-string) |
