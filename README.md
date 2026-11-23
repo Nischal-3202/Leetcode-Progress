@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0867-transpose-matrix) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1019-next-greater-node-in-linked-list) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0191-number-of-1-bits) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0543-diameter-of-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0543-diameter-of-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
