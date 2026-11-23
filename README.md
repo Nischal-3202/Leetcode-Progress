@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1352-product-of-the-last-k-numbers) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1573-number-of-ways-to-split-a-string) |
 | [2409-count-days-spent-together](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2965-find-missing-and-repeated-values) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1019-next-greater-node-in-linked-list) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0560-subarray-sum-equals-k](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nischal-3202/Leetcode-Progress/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
