@@ -1,39 +1,26 @@
-
-class Solution(object):
+class Solution:
     def constructFromPrePost(self, preorder, postorder):
+        if not preorder:
+            return None
 
-        getpos = {}
+        root = TreeNode(preorder[0])
 
-        for i in range(len(postorder)):
-            getpos[postorder[i]] = i
-
-        def build(preStart, preEnd, postStart, postEnd):
-
-            if preStart > preEnd:
-                return None
-
-            root = TreeNode(preorder[preStart])
-
-            if preStart == preEnd:
-                return root
-
-            leftRoot = preorder[preStart + 1]
-            leftSize = getpos[leftRoot] - postStart + 1
-
-            root.left = build(
-                preStart + 1,
-                preStart + leftSize,
-                postStart,
-                postStart + leftSize - 1
-            )
-
-            root.right = build(
-                preStart + leftSize + 1,
-                preEnd,
-                postStart + leftSize,
-                postEnd - 1
-            )
-
+        if len(preorder) == 1:
             return root
 
-        return build(0, len(preorder)-1, 0, len(postorder)-1)
+        left_root = preorder[1]
+        index = postorder.index(left_root)
+
+        left_size = index + 1
+
+        root.left = self.constructFromPrePost(
+            preorder[1:left_size+1],
+            postorder[:left_size]
+        )
+
+        root.right = self.constructFromPrePost(
+            preorder[left_size+1:],
+            postorder[left_size:-1]
+        )
+
+        return root
